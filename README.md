@@ -13,10 +13,8 @@ I'm a passionate **MERN Stack Developer** with a strong foundation in building m
 - Learning vector DBs, embeddings, and RAG pipelines
 
 ## 📫 Connect with Me
-- GitHub: [@nafeelmannan](https://github.com/nafeelmannan)
-- LinkedIn: *your-link-here*
-- Portfolio: *your-website-here*
-
+- Email: nafeelmannan@gmail.com
+- Phone: +923239600578
 ---
 
 > 🌱 Always curious, always building.
