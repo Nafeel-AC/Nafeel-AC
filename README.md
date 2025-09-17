@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nafeel Mannan  
 
-🚀 **Full Stack Developer & AI Engineer** passionate about building modern, scalable, and intelligent applications.  
+🚀 **Full Stack Developer & AI Engineer with 2 years of experience**, passionate about building modern, scalable, and intelligent applications.  
 I work across a wide range of technologies — from traditional full-stack development to **automation and cutting-edge GenAI solutions**.  
 
 ---
