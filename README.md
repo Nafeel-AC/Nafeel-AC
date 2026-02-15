@@ -27,7 +27,7 @@ I work across a wide range of technologies — from traditional full-stack devel
 ## 📫 Connect with Me  
 📧 Email: **nafeelmannan@gmail.com**  
 📱 Phone: **+92 323 9600578**  
-🌐 [LinkedIn](https://www.linkedin.com) | [Portfolio Website](https://www.github.com/nafeel-mannan)  
+🌐 | [Portfolio Website](https://www.github.com/nafeel-mannan)  
 
 ---
 ✨ _“Code. Automate. Innovate with AI.”_  
