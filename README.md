@@ -29,5 +29,4 @@ I work across a wide range of technologies — from traditional full-stack devel
 📱 Phone: **+92 323 9600578**  
 🌐 | [Portfolio Website](https://www.github.com/nafeel-mannan)  
 
----
-✨ _“Code. Automate. Innovate with AI.”_  
+
