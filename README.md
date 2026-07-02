@@ -1,32 +1,102 @@
-# 👋 Hello, I'm Nafeel Mannan  
+# Hi there, I'm **Nafeel Mannan** 👋
 
-🚀 **Full Stack Developer & AI Engineer with 2 years of experience**, passionate about building modern, scalable, and intelligent applications.  
-I work across a wide range of technologies — from traditional full-stack development to **automation and cutting-edge GenAI solutions**.  
+<div align="center">
 
----
+### **Full Stack Developer • AI Engineer • Automation Enthusiast**
 
-## 💻 Core Expertise  
-- 🌐 **Full Stack Development**: Node.js, FastAPI, React.js, MongoDB, Supabase, Firebase  
-- 🔧 **APIs & Backend**: REST, GraphQL, Serverless Architectures  
-- 🤖 **AI & GenAI**: LangChain, LangGraph, AI Agents (VAPI), Vector DBs, RAG pipelines  
-- ⚡ **Automation & Workflows**: n8n for low-code orchestration & AI pipeline automation  
-- 🎙️ **AI Voice & Interaction**: ElevenLabs, real-time AI-driven voice agents  
-- 🔥 **Modern Solutions**: Integrating AI workflows into scalable web & mobile applications  
+Building scalable applications, intelligent systems, and AI-powered experiences.
+
+</div>
 
 ---
 
-## 🚀 What I’m Working On  
-- Full-stack platforms blending **AI agents** with web backends  
-- **Generative AI applications** using LangChain, LLMs, and embeddings  
-- Automated **AI pipelines** and business workflows using **n8n**  
-- Real-time interactive apps powered by **voice AI** (VAPI + ElevenLabs)  
-- Exploring **hybrid architectures** that combine FastAPI and Node.js  
+## 🚀 About Me
+
+I'm a **Full Stack Developer and AI Engineer** with **2+ years of experience** designing and building modern web applications, AI-powered solutions, and automated workflows.
+
+My work bridges the gap between **traditional software engineering** and **next-generation AI systems**, enabling businesses and users to interact with technology in smarter, faster, and more meaningful ways.
+
+I enjoy solving complex problems through a combination of **software architecture, artificial intelligence, and workflow automation**.
 
 ---
 
-## 📫 Connect with Me  
-📧 Email: **nafeelmannan@gmail.com**  
-📱 Phone: **+92 323 9600578**  
-🌐 | [Portfolio Website](https://www.github.com/nafeel-mannan)  
+## 🛠️ Tech Stack & Expertise
 
+### 🌐 Full Stack Development
 
+* **Frontend:** React.js, JavaScript, HTML5, CSS3
+* **Backend:** Node.js, FastAPI, Express.js
+* **Databases:** MongoDB, Supabase, Firebase
+* **Architecture:** REST APIs, GraphQL, Serverless Applications
+
+### 🤖 Artificial Intelligence & GenAI
+
+* LangChain
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Agentic Workflows
+* Vector Databases
+* Embeddings & LLM Integration
+* Prompt Engineering
+
+### ⚡ Automation & AI Workflows
+
+* n8n Workflow Automation
+* Business Process Automation
+* AI Pipeline Orchestration
+* API Integrations
+
+### 🎙️ Conversational & Voice AI
+
+* VAPI
+* ElevenLabs
+* Real-Time Voice Agents
+* AI-Powered Interactive Systems
+
+---
+
+## 🔭 Current Focus
+
+* Building **AI Agent ecosystems** integrated with full-stack applications
+* Developing **Generative AI solutions** using modern LLM frameworks
+* Creating **automated AI workflows** and intelligent business systems
+* Exploring **real-time conversational AI experiences**
+* Designing scalable **hybrid architectures** using FastAPI and Node.js
+
+---
+
+## 💡 Areas of Interest
+
+* Artificial Intelligence
+* Agentic AI Systems
+* Workflow Automation
+* Full Stack Engineering
+* Software Architecture
+* Cloud-Native Applications
+* Developer Productivity Tools
+
+---
+
+## 📈 Philosophy
+
+> "Technology becomes truly powerful when intelligence, automation, and great user experience work together."
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [nafeelmannan@gmail.com](mailto:nafeelmannan@gmail.com)
+
+💼 **GitHub:** https://github.com/nafeel-mannan
+
+🌍 **Open to:** Collaboration, Freelance Projects, AI Solutions, and Innovative Software Development
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+*"Building the future, one intelligent system at a time."*
+
+</div>
