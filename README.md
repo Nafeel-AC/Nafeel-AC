@@ -139,7 +139,7 @@ Mission:
 
 📧 **Email:** `nafeelmannan@gmail.com`
 
-🐙 **GitHub:** `github.com/nafeel-mannan`
+🐙 **GitHub:** `github.com/Nafeel-AC`
 
 💼 **Available for:** Freelance • AI Projects • Full Stack Development • Collaboration
 
