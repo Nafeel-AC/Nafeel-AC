@@ -1,56 +1,48 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#4F46E5;">Nafeel Mannan</span>
+# 👨‍💻 Nafeel Mannan
 
-### 🚀 Full Stack Developer • AI Engineer • Automation Builder
+### Full Stack Developer • AI Engineer • Automation Specialist
+
+*Building intelligent applications, AI agents, and scalable software solutions.*
+
+<br>
 
 <p>
-Building scalable applications, intelligent AI systems, and automated workflows.
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nafeel-mannan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20FullStack-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%">
+## 🧠 About Me
 
-## 💫 About Me
+```yaml
+Name: Nafeel Mannan
+Role: Full Stack Developer & AI Engineer
+Experience: 2+ Years
+Current Focus:
+  - AI Agents
+  - Generative AI Applications
+  - Workflow Automation
+  - Voice AI Systems
+  - Full Stack Development
 
-I'm a **Full Stack Developer and AI Engineer** with **2+ years of experience** building modern applications, AI agents, and intelligent automation systems.
-
-My focus lies at the intersection of:
-
-* 🌐 Full Stack Development
-* 🤖 Generative AI & AI Agents
-* ⚡ Workflow Automation
-* 🎙️ Conversational AI
-* ☁️ Scalable Backend Architectures
-
-I enjoy transforming complex ideas into practical, scalable, and user-focused solutions.
-
-</td>
-
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nafeel-mannan&show_icons=true&hide_border=true" />
-
-</td>
-</tr>
-</table>
+Mission:
+  Building software that combines
+  intelligence, automation, and scalability.
+```
 
 ---
 
-## 🛠️ Technology Stack
+## ⚡ Tech Arsenal
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
 ### 🌐 Frontend
 
@@ -62,7 +54,7 @@ I enjoy transforming complex ideas into practical, scalable, and user-focused so
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
 ### ⚙️ Backend
 
@@ -74,13 +66,13 @@ I enjoy transforming complex ideas into practical, scalable, and user-focused so
 
 </td>
 
-<td valign="top" width="33%">
+<td width="33%" valign="top">
 
-### 🗄️ Database
+### 🗄️ Databases
 
 * MongoDB
-* Supabase
 * Firebase
+* Supabase
 * Vector Databases
 
 </td>
@@ -89,34 +81,34 @@ I enjoy transforming complex ideas into practical, scalable, and user-focused so
 
 ---
 
-## 🤖 AI & Automation
+## 🤖 AI & Automation Stack
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Artificial Intelligence
 
-✅ LangChain
-✅ LangGraph
-✅ RAG Pipelines
-✅ AI Agents
-✅ LLM Integration
-✅ Prompt Engineering
-✅ Embeddings
+✓ LangChain
+✓ LangGraph
+✓ RAG Pipelines
+✓ AI Agents
+✓ Embeddings
+✓ LLM Integration
+✓ Prompt Engineering
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Automation
 
-✅ n8n Workflows
-✅ Business Automation
-✅ API Integrations
-✅ Agentic Systems
-✅ AI Orchestration
-✅ Voice AI Pipelines
+✓ n8n Workflows
+✓ API Integrations
+✓ Agentic Systems
+✓ Business Automation
+✓ AI Orchestration
+✓ Voice AI Solutions
 
 </td>
 </tr>
@@ -126,56 +118,35 @@ I enjoy transforming complex ideas into practical, scalable, and user-focused so
 
 ## 🚀 Currently Building
 
-```text
-▸ AI Agent Ecosystems
-▸ Generative AI Applications
-▸ Real-Time Voice Assistants
-▸ Workflow Automation Platforms
-▸ FastAPI + Node.js Hybrid Architectures
+```bash
+> AI Agent Platforms
+> Full Stack AI Applications
+> Real-Time Voice Assistants
+> Intelligent Workflow Automation
+> FastAPI + Node.js Hybrid Systems
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 💭 Engineering Philosophy
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nafeel-mannan&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafeel-mannan&layout=compact&hide_border=true" />
-
-</div>
+> "Great software is not just about writing code.
+> It's about building intelligent systems that solve real problems."
 
 ---
 
-## 💡 Philosophy
-
-<div align="center">
-
-> ### "The future of software lies in combining intelligence, automation, and exceptional user experience."
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
+## 📫 Connect
 
 📧 **Email:** `nafeelmannan@gmail.com`
 
-🐙 **GitHub:** https://github.com/nafeel-mannan
+🐙 **GitHub:** `github.com/nafeel-mannan`
 
-💼 **Open For:** AI Projects • Full Stack Development • Automation Solutions • Collaborations
-
-</div>
+💼 **Available for:** Freelance • AI Projects • Full Stack Development • Collaboration
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-**Building intelligent systems, one project at a time.**
+### 🚀 Building the future with AI + Software Engineering
 
 </div>
