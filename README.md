@@ -1,102 +1,181 @@
-# Hi there, I'm **Nafeel Mannan** 👋
-
 <div align="center">
 
-### **Full Stack Developer • AI Engineer • Automation Enthusiast**
+# 👋 Hi, I'm <span style="color:#4F46E5;">Nafeel Mannan</span>
 
-Building scalable applications, intelligent systems, and AI-powered experiences.
+### 🚀 Full Stack Developer • AI Engineer • Automation Builder
+
+<p>
+Building scalable applications, intelligent AI systems, and automated workflows.
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nafeel-mannan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="55%">
 
-I'm a **Full Stack Developer and AI Engineer** with **2+ years of experience** designing and building modern web applications, AI-powered solutions, and automated workflows.
+## 💫 About Me
 
-My work bridges the gap between **traditional software engineering** and **next-generation AI systems**, enabling businesses and users to interact with technology in smarter, faster, and more meaningful ways.
+I'm a **Full Stack Developer and AI Engineer** with **2+ years of experience** building modern applications, AI agents, and intelligent automation systems.
 
-I enjoy solving complex problems through a combination of **software architecture, artificial intelligence, and workflow automation**.
+My focus lies at the intersection of:
+
+* 🌐 Full Stack Development
+* 🤖 Generative AI & AI Agents
+* ⚡ Workflow Automation
+* 🎙️ Conversational AI
+* ☁️ Scalable Backend Architectures
+
+I enjoy transforming complex ideas into practical, scalable, and user-focused solutions.
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nafeel-mannan&show_icons=true&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Technology Stack
 
-### 🌐 Full Stack Development
+<table>
+<tr>
+<td valign="top" width="33%">
 
-* **Frontend:** React.js, JavaScript, HTML5, CSS3
-* **Backend:** Node.js, FastAPI, Express.js
-* **Databases:** MongoDB, Supabase, Firebase
-* **Architecture:** REST APIs, GraphQL, Serverless Applications
+### 🌐 Frontend
 
-### 🤖 Artificial Intelligence & GenAI
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Flutter
 
-* LangChain
-* LangGraph
-* Retrieval-Augmented Generation (RAG)
-* AI Agents & Agentic Workflows
+</td>
+
+<td valign="top" width="33%">
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* FastAPI
+* REST APIs
+* GraphQL
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🗄️ Database
+
+* MongoDB
+* Supabase
+* Firebase
 * Vector Databases
-* Embeddings & LLM Integration
-* Prompt Engineering
 
-### ⚡ Automation & AI Workflows
-
-* n8n Workflow Automation
-* Business Process Automation
-* AI Pipeline Orchestration
-* API Integrations
-
-### 🎙️ Conversational & Voice AI
-
-* VAPI
-* ElevenLabs
-* Real-Time Voice Agents
-* AI-Powered Interactive Systems
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔭 Current Focus
+## 🤖 AI & Automation
 
-* Building **AI Agent ecosystems** integrated with full-stack applications
-* Developing **Generative AI solutions** using modern LLM frameworks
-* Creating **automated AI workflows** and intelligent business systems
-* Exploring **real-time conversational AI experiences**
-* Designing scalable **hybrid architectures** using FastAPI and Node.js
+<table>
+<tr>
+<td width="50%">
+
+### Artificial Intelligence
+
+✅ LangChain
+✅ LangGraph
+✅ RAG Pipelines
+✅ AI Agents
+✅ LLM Integration
+✅ Prompt Engineering
+✅ Embeddings
+
+</td>
+
+<td width="50%">
+
+### Automation
+
+✅ n8n Workflows
+✅ Business Automation
+✅ API Integrations
+✅ Agentic Systems
+✅ AI Orchestration
+✅ Voice AI Pipelines
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Areas of Interest
+## 🚀 Currently Building
 
-* Artificial Intelligence
-* Agentic AI Systems
-* Workflow Automation
-* Full Stack Engineering
-* Software Architecture
-* Cloud-Native Applications
-* Developer Productivity Tools
-
----
-
-## 📈 Philosophy
-
-> "Technology becomes truly powerful when intelligence, automation, and great user experience work together."
+```text
+▸ AI Agent Ecosystems
+▸ Generative AI Applications
+▸ Real-Time Voice Assistants
+▸ Workflow Automation Platforms
+▸ FastAPI + Node.js Hybrid Architectures
+```
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Analytics
 
-📧 **Email:** [nafeelmannan@gmail.com](mailto:nafeelmannan@gmail.com)
+<div align="center">
 
-💼 **GitHub:** https://github.com/nafeel-mannan
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nafeel-mannan&show_icons=true&hide_border=true" />
 
-🌍 **Open to:** Collaboration, Freelance Projects, AI Solutions, and Innovative Software Development
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafeel-mannan&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> ### "The future of software lies in combining intelligence, automation, and exceptional user experience."
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+📧 **Email:** `nafeelmannan@gmail.com`
+
+🐙 **GitHub:** https://github.com/nafeel-mannan
+
+💼 **Open For:** AI Projects • Full Stack Development • Automation Solutions • Collaborations
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### ⭐ Thanks for visiting my profile!
 
-*"Building the future, one intelligent system at a time."*
+**Building intelligent systems, one project at a time.**
 
 </div>
