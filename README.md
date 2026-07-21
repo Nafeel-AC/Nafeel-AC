@@ -128,7 +128,7 @@ Mission:
 
 ---
 
-## 💭 Engineering Philosophy
+##  Engineering Philosophy
 
 > "Great software is not just about writing code.
 > It's about building intelligent systems that solve real problems."
