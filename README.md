@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Nafeel Mannan
+#  Nafeel Mannan
 
 ### Full Stack Developer • AI Engineer • Automation Specialist
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```yaml
 Name: Nafeel Mannan
@@ -38,13 +38,13 @@ Mission:
 
 ---
 
-## ⚡ Tech Arsenal
+##  Tech Arsenal
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🌐 Frontend
+###  Frontend
 
 * React.js
 * JavaScript
@@ -56,7 +56,7 @@ Mission:
 
 <td width="33%" valign="top">
 
-### ⚙️ Backend
+###  Backend
 
 * Node.js
 * Express.js
@@ -68,7 +68,7 @@ Mission:
 
 <td width="33%" valign="top">
 
-### 🗄️ Databases
+###  Databases
 
 * MongoDB
 * Firebase
@@ -81,7 +81,7 @@ Mission:
 
 ---
 
-## 🤖 AI & Automation Stack
+##  AI & Automation Stack
 
 <table>
 <tr>
@@ -116,7 +116,7 @@ Mission:
 
 ---
 
-## 🚀 Currently Building
+##  Currently Building
 
 ```bash
 > AI Agent Platforms
@@ -135,18 +135,18 @@ Mission:
 
 ---
 
-## 📫 Connect
+##  Connect
 
-📧 **Email:** `nafeelmannan@gmail.com`
+ **Email:** `nafeelmannan@gmail.com`
 
-🐙 **GitHub:** `github.com/Nafeel-AC`
+ **GitHub:** `github.com/Nafeel-AC`
 
-💼 **Available for:** Freelance • AI Projects • Full Stack Development • Collaboration
+ **Available for:** Freelance • AI Projects • Full Stack Development • Collaboration
 
 ---
 
 <div align="center">
 
-### 🚀 Building the future with AI + Software Engineering
+###  Building the future with AI + Software Engineering
 
 </div>
